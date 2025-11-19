@@ -1,7 +1,7 @@
 /* Main section styling for contact */
 .contact-section {
   padding: 40px 20px;
-  background: linear-gradient(135deg, rgba(0, 0, 0, 0.6), rgba(43, 43, 82, 0.6)), url('image.jpeg'); /* Gradient overlay with background image */
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0.6), rgba(43, 43, 82, 0.6)), url('/image.jpeg'); /* Gradient overlay with background image */
   background-size: cover;
   background-position: center;
   color: #fff;

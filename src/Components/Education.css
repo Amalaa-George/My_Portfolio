@@ -8,7 +8,7 @@
   opacity: 0;
   animation: fadeIn 1s forwards; /* Fade-in effect for the section */
   
-  background: linear-gradient(135deg, rgba(0, 0, 0, 0.6), rgba(43, 43, 82, 0.6)), url('image.jpeg'); /* Gradient with image */
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0.6), rgba(43, 43, 82, 0.6)), url('/image.jpeg'); /* Gradient with image */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
